@@ -1,0 +1,68 @@
+  /* .icon1{
+    margin-left: 800px;
+}
+.img-1{
+    margin-left: 50px;
+    width: 500px;
+}  */
+  .container-1{
+    background-color: black;
+    height: 670px;
+    width: 200px;
+    color: aliceblue;
+  }
+ 
+ /* .container-fluid1{
+    text-align: left;
+ }
+ .img-1{ 
+     width: 600px;
+    height: 200px; 
+     margin-right: 800px;
+ }
+  .container-main1{
+    border-radius: 10px;
+    border-width: 20px;
+    height:90px;
+    width: 250px; 
+  }
+
+
+ 
+ .container-main11{
+    width: 600px;
+    height: 200px;
+    background-color: lightcoral;
+ }
+ .nav-2{
+    flex-direction: row;
+ }
+ .img-PA{
+   height: 50px;
+   width: 50px;
+ } */
+ .Dashboard-btn{
+   background-color: black;
+   color: aliceblue;
+   border: 10px;
+   margin-top: 30px;
+   margin-left: 50px;
+ }
+ /* .container-dash{
+   margin-top: 50px;
+   
+ } */
+ .heading{
+   margin-top: 10px;
+   margin-left: 30px;
+   margin-bottom: 30px;
+ }
+ /* .container-APA{
+   background-color: lightgreen;
+ }  */
+.tshirtcss{
+  width: 30px;
+  height: 30px;
+ } 
+
+
