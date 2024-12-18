@@ -28,9 +28,9 @@ Frontend Framework: React.js
 State Management: Redux
 
 Styling: TailwindCSS
-
+practicalreact\image.png
+practicalreact\Image2.png
 How to Run
-
 
 Prerequisites
 
